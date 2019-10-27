@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+}
+
+.box-picture {
+    border: 1px black solid;
+    width: 120px;
+    height: 120px;
+}
+
+#newgame {
+    background-color: blueviolet;
+}
